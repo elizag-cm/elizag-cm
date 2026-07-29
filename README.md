@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Eliza!
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonada por desenvolvimento de software e por aprender novas tecnologias.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), com grande interesse em desenvolvimento de software e aprendizado contínuo de novas tecnologias.
 
 Atualmente estou focada em desenvolver aplicações **Full Stack**, criando APIs robustas no back-end e interfaces modernas no front-end.
 
