@@ -1,6 +1,11 @@
 <div align="center">
 
-*👋 Olá, eu sou a Eliza!*
+<h1>
+<img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="42px" alt="👋">
+Olá, eu sou a Eliza!
+</h1>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript"/>
 
