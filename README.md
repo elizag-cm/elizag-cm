@@ -73,9 +73,3 @@ Sistema voltado ao acompanhamento nutricional.
 - Boas práticas de desenvolvimento
 
 ---
-
-<div align="center">
-
-### 🌿 *"Construindo hoje a desenvolvedora que quero ser amanhã."*
-
-</div>
