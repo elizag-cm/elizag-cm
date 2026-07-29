@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Olá, eu sou a Eliza Crispim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript"/>
 
 <br>
 
@@ -20,7 +20,7 @@
 
 # 🌱 Sobre mim
 
-**Desenvolvedora Full Stack | Java • Spring Boot • Django • React • PostgreSQL**
+**Desenvolvedora Full Stack | Java • Spring Boot • Django • TypeScript • PostgreSQL**
 
 Estudante de Análise e Desenvolvimento de Sistemas, com grande interesse em desenvolvimento de software e aprendizado contínuo de novas tecnologias.
 
@@ -32,7 +32,7 @@ Busco minha primeira oportunidade de estágio para evoluir como desenvolvedora e
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,js,ts,nextjs,postgres,mysql,git,github,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,js,ts,postgres,mysql,git,github,vscode,idea"/>
 
 </p>
 
