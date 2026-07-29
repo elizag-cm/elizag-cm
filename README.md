@@ -71,10 +71,3 @@ Sistema de acompanhamento nutricional.
 - Arquitetura de APIs REST
 - Boas práticas de desenvolvimento
 
----
-
-<div align="center">
-
-###  *"Transformando conhecimento em experiências e soluções reais."*
-
-</div>
