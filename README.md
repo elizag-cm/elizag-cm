@@ -1,20 +1,24 @@
 <div align="center">
 
 <h1>
-  <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="42" alt="👋">
+  <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="42" alt="👋" />
   Olá, eu sou a Eliza!
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript"/>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript"
+/>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/eliza-crispim-ab6447351">
-  <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:elizacrispim.pb@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/E--mail-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
 </div>
