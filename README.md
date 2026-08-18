@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="42" alt="👋" />
+  <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="42" alt="" />
   Olá, eu sou a Eliza!
 </h1>
 
@@ -68,7 +68,7 @@ Sistema voltado ao acompanhamento nutricional.
 # 📚 Atualmente estudando
 
 - React
-- Next.js
+- Node.js
 - Arquitetura de APIs REST
 - Boas práticas de desenvolvimento
 
