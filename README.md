@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="42" alt="" />
+  <img src="" width="42" alt="" />
   Olá, eu sou a Eliza!
 </h1>
 
