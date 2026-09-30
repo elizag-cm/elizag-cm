@@ -27,7 +27,6 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento de software e aprendizado contínuo de novas tecnologias.
 
-Busco minha primeira oportunidade de **estágio**, onde possa aplicar meus conhecimentos, evoluir profissionalmente e contribuir para o desenvolvimento de soluções que gerem impacto.
 
 ---
 
