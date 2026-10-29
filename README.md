@@ -1,11 +1,10 @@
 <div align="center">
 
 <h1>
-  <img src="" width="42" alt="" />
   Olá, eu sou a Eliza!
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Django;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React"/>
 
 <br>
 
@@ -25,15 +24,14 @@
 
 **Desenvolvedora Full Stack | Java • Spring Boot • Django • TypeScript • PostgreSQL**
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento de software e aprendizado contínuo de novas tecnologias.
-
+Estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento de software, criação de aplicações web e aprendizado contínuo de novas tecnologias.
 
 ---
 
 # 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,js,ts,postgres,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,js,ts,react,nextjs,angular,postgres,mysql,git,github,vscode,idea" />
 </p>
 
 ---
@@ -66,7 +64,7 @@ Sistema voltado ao acompanhamento nutricional.
 
 # 📚 Atualmente estudando
 
-- React
+- Angular
 - Node.js
 - Arquitetura de APIs REST
 - Boas práticas de desenvolvimento
