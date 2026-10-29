@@ -22,7 +22,7 @@
 
 # 🌱 Sobre mim
 
-**Desenvolvedora Full Stack | Java • Spring Boot • Django • TypeScript • PostgreSQL**
+**Desenvolvedora Full Stack |Python • Django • Java • Spring Boot • TypeScript • React • Next.js | PostgreSQL**
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento de software, criação de aplicações web e aprendizado contínuo de novas tecnologias.
 
